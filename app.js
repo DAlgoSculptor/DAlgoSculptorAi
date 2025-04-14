@@ -39,3 +39,5 @@ closeButton.addEventListener("click", function(){
     sideBar.classList.remove('open-sidebar')
     sideBar.classList.add('close-sidebar')
 })
+
+
